@@ -30,13 +30,3 @@ This project uses **InceptionV3 (CNN)** for extracting image features and a **Tr
 - [Flickr8k Captions](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip)
 
 You can also easily modify the notebook to use other datasets like [MS COCO](https://cocodataset.org/#home).
-
----
-
-## 📦 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/image-caption-generator-transformer.git
-cd image-caption-generator-transformer
